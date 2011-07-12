@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+ * MvcJsI18n is created by Larry Zhao.
+ * Repository is at https://github.com/larryzhao/MvcJsI18n
+ * Home page is at http://larryzhao.com/blog/ursacoder-mvcjsi18n
+ * 
+ * This is an opensource project, under license EPL.
+ * You could use it in anywhere you want.
+ * 
+ * Thank you very much. :)
+ * 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

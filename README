@@ -1,6 +1,14 @@
 What's MvcJsI18n
-========================================================================
-This project is to setup a solution for managing javascript resources
-in .Net MVC framework.
+====================================================================================================
+This project is to setup a solution for managing javascript resources in .Net MVC framework.
 
-I will complete this soon.
+You could find the how-to guides and the demo web project at:
+http://larryzhao.com/blog/ursacoder-mvcjsi18n
+
+The project is license under EPL. 
+
+The project is now only under .Net 4, MVC3 and Razor View Engine.
+
+It is not tried and tested under other runtime eviroment.
+
+I will come back make this more compelete.
